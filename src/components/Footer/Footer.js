@@ -3,7 +3,7 @@ export const Footer = () => {
     <footer className="footer">
       <ul className="footer__nav">
         <li className="footer__item">
-          <a className="footer__link" href="#">
+          <a className="footer__link" href="/#">
             Acerca
           </a>
         </li>
@@ -13,17 +13,17 @@ export const Footer = () => {
           </a>
         </li>
         <li className="footer__item">
-          <a className="footer__link" href="#">
+          <a className="footer__link" href="/#">
             Términos de uso
           </a>
         </li>
         <li className="footer__item">
-          <a className="footer__link" href="#">
+          <a className="footer__link" href="/#">
             Póliticas de privacidad
           </a>
         </li>
         <li className="footer__item">
-          <a className="footer__link" href="#">
+          <a className="footer__link" href="/#">
             Contáctanos
           </a>
         </li>

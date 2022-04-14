@@ -39,7 +39,7 @@ export const Cards = () => {
 
       <div className="card-container">
         <div className="image-container">
-          <img src="img/logo3.jpg" alt="" />
+          <img src="img/logo3.png" alt="" />
         </div>
         <div className="card-content">
           <div className="card-title">

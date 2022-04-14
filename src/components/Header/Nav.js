@@ -1,12 +1,15 @@
 export const Nav = () => {
   return (
     <nav className="nav sticky">
-      <img
-        src="./img/logo2.png"
-        alt="Lucca-loggo"
-        className="nav__logo"
-        id="logo"
-      ></img>
+      <a className="nav__link" href="/#">
+        <img
+          src="./img/logo2.png"
+          alt="Lucca-loggo"
+          className="nav__logo"
+          id="logo"
+        ></img>
+      </a>
+
       <ul className="nav__links">
         <li className="nav__item">
           <a className="nav__link" href="/#section--1">
